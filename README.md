@@ -6,7 +6,7 @@ Os arquivos e análise mais completa dos projetos estão nos respectivos diretó
 
 ## Assistência Estudantil
 
-Projeto real executado junto à Pró-Reitoria de Ensino do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS. O projeto começou com uma planilha de Excel complexa, contendo múltiplas abas e dados pouco claros. Para melhor organização e compreensão dos dados, foi realizado um processo de transformação, onde os dados foram mapeados e organizados em tabelas distintas.  Em seguida, foi criado um dashboard utilizando técnicas avançadas de visualização de dados, e o layout foi todo elaborado no software Figma, respeitando as cores da instituição. Essa abordagem permitiu uma apresentação mais clara e intuitiva das informações, fornecendo percepções valiosas para tomada de decisão e análise do conjunto de dados.
+Projeto real executado junto à Pró-Reitoria de Ensino do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - IFRS. O projeto começou com uma planilha de Excel complexa, contendo múltiplas abas e dados pouco claros. Para melhor organização e compreensão dos dados, foi realizado um processo de transformação, onde os dados foram mapeados e organizados em tabelas distintas.  Em seguida, foi criado um dashboard utilizando técnicas avançadas de visualização de dados, e o layout foi todo elaborado no software Figma, respeitando as cores da instituição. Essa abordagem permitiu uma apresentação mais clara e intuitiva das informações, fornecendo percepções valiosas para tomada de decisão e análise do conjunto de dados. (Dados referentes ao primeiro semestre de 2023).
 
 ![Dashboard - Estudantil](https://github.com/karinefonseca/dashboards_power_bi/assets/98848529/e68dd0e8-6d7e-482f-8d31-688288c8f242)
 
