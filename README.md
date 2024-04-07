@@ -2,7 +2,7 @@
 
 Neste repositório estão projetos de Análise de Dados utilizando dashboards elaborados no Power BI.
 
-Os arquivos e análise mais completa dos projetos estão nos respectivos diretórios.
+Os arquivos e detalhamento do pojeto de Assistência Estudantil estão nos respectivos diretórios.
 
 ## Assistência Estudantil
 
