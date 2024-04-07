@@ -23,7 +23,7 @@ Neste dashboard observamos o número de contratações, o total de demissões, m
 
 Neste projeto, realizado no módulo 1 do curso de Data Insights, é feita a análise das vendas em três filiais de uma mesma rede de supermercados no período de três meses utilizando o Dataset: https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales. 
 
-Neste dashboard, observamos o valor do tícket médio, quantidade total de produtos vendidos, o faturamento total, a média das avaliações do mercado, total de clientes, faturamento total por data, o tipo de pagamento, o sexo dos clientes e o faturamento por linhas de produtos (comidas e bebidas, eletrônicos, saúde e beleza, entre outros). 
+Neste dashboard, observamos o valor do ticket médio, quantidade total de produtos vendidos, o faturamento total, a média das avaliações do mercado, total de clientes, faturamento total por data, o tipo de pagamento, o sexo dos clientes e o faturamento por linhas de produtos (comidas e bebidas, eletrônicos, saúde e beleza, entre outros). 
 
 Na lateral esquerda conseguimos selecionar e analisar os dados para cada uma das filiais (A,B e C), assim como ao clicar nas linhas de produtos temos os dados para cada uma das mesmas.    
 
